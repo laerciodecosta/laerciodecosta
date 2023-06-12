@@ -2,7 +2,8 @@
 
 Olá, eu sou o Laércio
 
-![images](https://user-images.githubusercontent.com/109702718/205773915-3fc3ee6b-6993-4daa-bbe4-0f217b93f51c.jpeg)
+![1000029526](https://github.com/laerciodecosta/laerciodecosta/assets/109702718/dbec5784-1c58-47de-9078-624bc79cdc68)
+
 
 ## Meus hobbiens
 

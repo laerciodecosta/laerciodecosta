@@ -9,14 +9,13 @@ Olá, eu sou o Laércio
 
 - Ler
 - Estudar
-- Assistir séries
+- Pedal
 
 ## Atualmente estudando
 - Git e Github
-- React
-- Javascript e Typescript
+- Python
+- FastAPI
 
 ## Meus contatos
 
 - GitHub @laerciodecosta
-- Email laerciodecosta@gmail.com

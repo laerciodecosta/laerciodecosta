@@ -10,7 +10,7 @@ Olá, eu sou o Laércio
 - Pedal
 
 ## Atualmente estudando
-- Git e Github
+- OPNSense
 - Python
 - FastAPI
 
